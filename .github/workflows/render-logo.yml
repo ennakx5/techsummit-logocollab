@@ -1,4 +1,6 @@
 name: Render Markdown Pixel Logo
+permissions:
+  contents: write
 
 on:
   push:
