@@ -26,11 +26,12 @@ Where (7, 12) are the horizontal, vertical coordinates of the pixel in the grid.
 ## The Logo Board
 
 See the current progress here:  
-👉 [logo.md](logo.md) (Markdown grid)  
+
+[logo.md](logo.md) (Markdown grid)  
 
 and see the rendered preview here:
 
-👉 ![Logo preview](preview.png?)
+<img src="https://github.com/gieseckedevrient/techsummit-logocollab/raw/main/preview.png?">
 
 ## Tip
 
